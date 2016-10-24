@@ -1,0 +1,3183 @@
+[ 2016-10-23T13:54:06+08:00 ] 127.0.0.1 /10.22/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:54:06+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T13:54:18+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.140008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.140008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T13:54:21+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:54:21+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:54:33+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `admin` WHERE ( username = 'ROOT'and password='ea2adde5c377cb5e09d14b71935c6f32' ) LIMIT 1   [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-23T13:54:36+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:54:36+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:54:44+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/code.html?c=0.29370157537050545
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T13:54:56+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `admin` WHERE ( username = 'root'and password='e8ff7d8d7a49a969a2cb8502eded9d79' ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:54:59+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-23T13:54:59+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:55:18+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:55:21+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:55:21+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:55:32+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T13:55:35+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:55:35+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T13:55:37+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/code.html?c=0.8214863175526261
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T13:55:39+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/code.html?c=0.8214863175526261?c=0.2322515428531915
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T13:55:40+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/code.html?c=0.8214863175526261?c=0.2322515428531915?c=0.4910237486474216
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:56:00+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Login/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `admin` WHERE ( username = 'root'and password='63a9f0ea7bb98050796b649e85481845' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:56:02+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.105006s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T13:56:03+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T13:56:08+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:56:09+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0050s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:56:10+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0050s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:56:10+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:56:11+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-23T13:56:11+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0050s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:56:16+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:56:17+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T13:56:17+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:56:18+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:56:19+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 3,3   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:56:20+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_order/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:56:33+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_output.html?start=2016-10-03&close=2016-10-18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT * FROM orderinfo o right join information as i on i.orderid=o.orderid  WHERE ( create_time >= '1475424000' and  create_time <= '1476720000' )  [ RunTime:0.0650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T13:58:04+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_order.html?company=%E5%A4%A7%E7%90%86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  WHERE ( i.company = '大理' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  WHERE ( i.company = '大理' ) LIMIT 0,3   [ RunTime:0.3230s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:00:26+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0050s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:00:27+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:00:27+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:00:28+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:00:30+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/user-management.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:user-management
+
+[ 2016-10-23T14:24:28+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0090s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T14:24:29+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:24:33+08:00 ] 127.0.0.1 /10.22/index.php/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:24:38+08:00 ] 127.0.0.1 /10.22/index.php/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T14:24:44+08:00 ] 127.0.0.1 /10.22/index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:24:45+08:00 ] 127.0.0.1 /10.22/index.php/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T14:24:58+08:00 ] 127.0.0.1 /10.22/index.php/Login/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:25:01+08:00 ] 127.0.0.1 /10.22/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:25:01+08:00 ] 127.0.0.1 /10.22/index.php/Login/code.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:25:25+08:00 ] 127.0.0.1 /10.22/index.php/Login/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `admin` WHERE ( username = 'root'and password='63a9f0ea7bb98050796b649e85481845' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:25:26+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T14:26:08+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0050s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:26:12+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0050s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T14:26:13+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:26:14+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-23T14:27:07+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:27:08+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:27:09+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:27:10+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T14:28:22+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:28:23+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:28:24+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:28:25+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:28:27+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:28:27+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:28:27+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T14:28:30+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T14:28:31+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:00:19+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.062004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:1.4961s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0360s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0190s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.011001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011001s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.192011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.194011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2016-10-23T16:00:19+08:00 ] 127.0.0.1 /10.22/index.php/Order/user-management.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.062004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011000s ]
+ERR: 非法操作:user-management
+
+[ 2016-10-23T16:00:19+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.063004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0420s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0140s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.015000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:00:20+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.063004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014001s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0420s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.011001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T16:00:20+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.062004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016001s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.1820s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-10-23T16:04:22+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0050s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:04:27+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:04:31+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T16:12:28+08:00 ] 127.0.0.1 /10.22/index.php/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018001s ]
+
+[ 2016-10-23T16:12:29+08:00 ] 127.0.0.1 /10.22/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.103006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.103006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013001s ]
+
+[ 2016-10-23T16:12:32+08:00 ] 127.0.0.1 /10.22/index.php/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:12:43+08:00 ] 127.0.0.1 /10.22/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:12:45+08:00 ] 127.0.0.1 /10.22/index.php/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T16:13:09+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.2190s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T16:13:16+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0180s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.015001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T16:13:17+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:14:02+08:00 ] 127.0.0.1 /10.22/index.php/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.052003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T16:14:03+08:00 ] 127.0.0.1 /10.22/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.186011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.186011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-10-23T16:14:05+08:00 ] 127.0.0.1 /10.22/index.php/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:14:23+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0200s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:14:32+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0210s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T16:14:34+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0100s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.007000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:14:36+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0150s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:14:41+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0090s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:14:43+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0940s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:14:44+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:15:37+08:00 ] 127.0.0.1 /10.22/index.php/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-23T16:15:37+08:00 ] 127.0.0.1 /10.22/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:15:37+08:00 ] 127.0.0.1 /10.22/index.php/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:15:45+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:16:22+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0180s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T16:16:24+08:00 ] 127.0.0.1 /10.22/index.php/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:16:24+08:00 ] 127.0.0.1 /10.22/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:16:24+08:00 ] 127.0.0.1 /10.22/index.php/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T16:16:31+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:17:03+08:00 ] 127.0.0.1 /10.22/index.php/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T16:17:03+08:00 ] 127.0.0.1 /10.22/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-23T16:17:03+08:00 ] 127.0.0.1 /10.22/index.php/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:17:09+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T16:18:44+08:00 ] 127.0.0.1 /10.22/index.php/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:18:44+08:00 ] 127.0.0.1 /10.22/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:18:44+08:00 ] 127.0.0.1 /10.22/index.php/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:20:00+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:20:05+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:20:05+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0100s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:23:04+08:00 ] 127.0.0.1 /10.22/index.php/Admin/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0070s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:24:16+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: admininfo D:\WWW\10.22\Application\Admin\Controller\OrderController.class.php 第 8 行.
+
+[ 2016-10-23T16:25:06+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:25:09+08:00 ] 127.0.0.1 /10.22/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:25:09+08:00 ] 127.0.0.1 /10.22/index.php/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:25:25+08:00 ] 127.0.0.1 /10.22/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:25:25+08:00 ] 127.0.0.1 /10.22/index.php/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:25:35+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-23T16:25:38+08:00 ] 127.0.0.1 /10.22/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:25:38+08:00 ] 127.0.0.1 /10.22/index.php/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:38:42+08:00 ] 127.0.0.1 /10.22/index.php/Login/vcode.html?c=0.9715079255402088
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T16:38:50+08:00 ] 127.0.0.1 /10.22/index.php/Login/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.5020s ]
+SQL: SELECT * FROM `admin` WHERE ( username = 'root'and password='63a9f0ea7bb98050796b649e85481845' ) LIMIT 1   [ RunTime:0.0420s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:38:52+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-10-23T16:39:25+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:40:40+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:40:41+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:41:03+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+
+[ 2016-10-23T16:41:21+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-10-23T16:41:22+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:42:07+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0710s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-23T16:42:20+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0110s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-10-23T16:42:21+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0060s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T16:44:30+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_output.html?start=2016-10-04&close=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_REFERE D:\WWW\10.22\Application\Admin\Controller\OrderController.class.php 第 62 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T17:29:02+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_output.html?start=2016-10-03&close=2016-10-25
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0230s ]
+SQL: SELECT * FROM `orderinfo` WHERE ( create_time >= '1475424000' and  create_time <= '1477324800' )  [ RunTime:0.2890s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016001s ]
+
+[ 2016-10-23T17:31:27+08:00 ] 127.0.0.1 /10.22/index.php/Order/agent_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0050s ]
+SQL: SELECT count(*) as num FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM orderinfo o  right join information as i on i.orderid=o.orderid  LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 68 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 69 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 70 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\c6d20f04886321cd7d1d7b3f82d901be.php 第 72 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013000s ]
+
+[ 2016-10-23T17:31:31+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0040s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-23T17:32:36+08:00 ] 127.0.0.1 /10.22/index.php/Order/user_order/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `orderinfo` [ RunTime:0.0050s ]
+SQL: SELECT count(*) as num FROM `orderinfo` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `orderinfo` LIMIT 3,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: tel D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 65 行.
+NOTIC: [8] Undefined index: orderid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 66 行.
+NOTIC: [8] Undefined index: uid D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 67 行.
+NOTIC: [8] Undefined index: start D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+NOTIC: [8] Undefined index: close D:\WWW\10.22\Application\Runtime\Cache\Admin\4055d5d3bf225bd05d46005882557ac8.php 第 69 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
